@@ -1,6 +1,6 @@
 <h1>Interrupt Flow Chart</h1>
-from:
-- https://circuits4you.com/2017/12/08/esp8266-external-interrupt-example/
+from:<br/>
+- https://circuits4you.com/2017/12/08/esp8266-external-interrupt-example/ <br/>
 - https://lastminuteengineers.com/handling-esp32-gpio-interrupts-tutorial/
 
 
