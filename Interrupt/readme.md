@@ -2,9 +2,7 @@
 from:<br/>
 - https://circuits4you.com/2017/12/08/esp8266-external-interrupt-example/ <br/>
 - https://lastminuteengineers.com/handling-esp32-gpio-interrupts-tutorial/
-
-
-
+<br/>
 An interrupt alerts the processor to a high-priority condition requiring the interruption of the current code the processor is executing. 
 The processor responds by suspending its current activities, saving its state, and executing a function called an interrupt handler 
 (or an interrupt service routine, ISR) to deal with the event.
